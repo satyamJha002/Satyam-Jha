@@ -12,6 +12,9 @@ Throughout my journey, I have acquired a diverse skill set, including:
  3. JavaScript
  4. Bootstrap
  5. JQuery
+ 6. Git
+ 7. MERN stack
+    
 Feel free to reach out to me for any collaborations or inquiries. I am excited to share my work with you and be a part of innovative projects that make a difference. Thank you for visiting my portfolio!
 
 #  https://satyamjha002.github.io/Satyam-Jha/
